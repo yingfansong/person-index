@@ -22,6 +22,5 @@ features:
     icon:
       src: /apple-touch-icon-next.png
     details: 随便瞎写、自娱自乐罢了
-    link: https://blog.henzhuanbi.cn
 ---
 
