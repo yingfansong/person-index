@@ -12,10 +12,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Docker',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Docker1', link: '/Docker/Docker' },
+          { text: 'golang', link: '/golang/打开golang的大门' }
         ]
       }
     ],

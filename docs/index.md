@@ -18,9 +18,5 @@ features:
       src: /xitu-logo.svg
     details: 掘金是面向全球中文开发者的技术内容分享与交流平台
     link: https://juejin.cn/user/1434196254931182
-  - title: 个人博客
-    icon:
-      src: /apple-touch-icon-next.png
-    details: 随便瞎写、自娱自乐罢了
 ---
 
