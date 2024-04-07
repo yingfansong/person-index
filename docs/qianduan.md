@@ -1,11 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "WinFord"
-  text: "Blog"
-  tagline: "十方本无意 众生起分别"
+layout: qianduan
 
 features:
   - title: RabbitMQ
@@ -14,4 +9,3 @@ features:
     link: https://leetcode.cn/u/jolly-7alandeszo/
     details: One broker to queue them all
 ---
-
